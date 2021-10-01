@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Muli&display=swap'); 
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
  
 $lnBdFill: #3498db;  // lineBackgroundFill
 $lnBdEmp: #e0e0e0;  // lineBackgroundEmpty
@@ -32,7 +32,7 @@ body {
   max-width: 100%;
   width: 350px;
 }
- 
+
 .progress-container::before {
   content: '';
   background-color: $lnBdEmp;
